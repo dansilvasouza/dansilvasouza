@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! Hello! Hello! 💃 👋
+
+- 🔭 I’m currently learning Responsive Web Desing with the @FreeCodeCamp.org certification course
+- 🌱 I’m currently learning HTML, CSS and git 🤷‍♀️
+- 👩‍🎓 I have a MSc. in Experimental Geosciences ⚒ 🪐 🌎
 
 <!--
 **dansilvasouza/dansilvasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
